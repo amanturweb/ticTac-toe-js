@@ -1,5 +1,5 @@
 # ticTac-toe-js
-This is a simple logic of tic tac toe game
+This is a logic of tic-tac toe game
 Easy to understand and practice )
 App Design pretty much simple 
 ![view](./images/looksApp.png)
